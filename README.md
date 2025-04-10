@@ -8,7 +8,7 @@ The best tech stack for SaaS in 2025.
 - ⚙️ Backend: Go
 - 💾 SQL DB: PostgreSQL
 - 🔒 Auth: Supabase
-- 🪣 Storage: Wasabi
+- 🌱 Storage: Wasabi
 - ☁️ Domain Provider: Cloudflare
 - 🔥 Frontend Hosting: Cloudflare Pages
 - 🎈 Backend Service: Fly.io
