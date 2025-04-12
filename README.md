@@ -13,7 +13,7 @@ The best tech stack for SaaS in 2025.
 - 🔥 Frontend Hosting: Cloudflare Pages
 - 🎈 Backend Service: Fly.io
 - 🐞 Error Monitoring: Sentry
-- 📶 Analytics: MixPanel
+- 📶 Analytics: Mixpanel
 
 <!--
 **arvicxyz/arvicxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
