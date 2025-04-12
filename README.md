@@ -10,10 +10,15 @@ The best tech stack for SaaS in 2025.
 - 🔒 Auth: Supabase
 - 🌱 Storage: Wasabi
 - ☁️ Domain Provider: Cloudflare
-- 🔥 Frontend Hosting: Cloudflare Pages
+- 📃 Frontend Hosting: Cloudflare Pages
 - 🎈 Backend Service: Fly.io
 - 🐞 Error Monitoring: Sentry
-- 📶 Analytics: Mixpanel
+- 📶 Mobile Analytics: Mixpanel
+- 🔥 Web Analytics: Firebase
+- 🔔 Push Notifications: Firebase Cloud Messaging
+- 🐈 Mobile Payment: RevenueCat
+- 🍋 Web Payment: Lemon Squeezy
+- 📧 Email: Amazon SES
 
 <!--
 **arvicxyz/arvicxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
