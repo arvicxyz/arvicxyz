@@ -3,6 +3,11 @@ I'm building SaaS products and providing value using the best tech stack in the 
 The best tech stack for SaaS in 2025.
 
 - 📱 Mobile App: Flutter or Native
+- 🧊 State Management: Bloc
+- Router: GoRouter
+- DI: GetIt
+- Local SQL DB: Drift
+- Local NoSQL DB: Hive
 - 🖥️ Web App: React/Next.js
 - 🌐 Landing Website: Astro
 - ⚙️ Backend: Go
