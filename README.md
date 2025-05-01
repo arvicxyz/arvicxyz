@@ -2,28 +2,53 @@ I'm building SaaS products and providing value using the best tech stack in the 
 
 The best tech stack for SaaS in 2025.
 
-- 📱 Mobile App: Flutter or Native
+### 📱 Mobile App
+- 📱 Framework: Flutter or Native
 - 🧊 State Management: Bloc
-- Router: GoRouter
-- DI: GetIt
-- Local SQL DB: Drift
-- Local NoSQL DB: Hive
-- 🖥️ Web App: React/Next.js
-- 🌐 Landing Website: Astro
-- ⚙️ Backend: Go
-- 💾 SQL DB: PostgreSQL
-- 🔒 Auth: Supabase
-- 🌱 Storage: Wasabi
-- ☁️ Domain Provider: Cloudflare
+- 🧭 Router: GoRouter
+- 🧰 Service Locator: GetIt
+- 🧪 Dependency Injection: Injectable
+- 🌐 HTTP Client: Dio
+- 🗃️ Local SQL DB: Drift
+- 📦 Local NoSQL DB: Hive
+- 🚀 CI/CD: GitHub Actions + Fastlane
+
+### 🖥️ Web App & Website
+- 🖥️ Web App: Next.js
+- 🌐 Website: Astro
+- ⚛️ UI Library: React
+- 🎨 CSS Framework: TailwindCSS
+- 🧱 Component Library: shadcn/ui
+- 💻 Language: TypeScript
+
+### ⚙️ Backend
+- ⚙️ Language: Go
+- 🛠️ Web Framework: Echo
+- 🔄 JSON Serializer: Sonic
+- 🗄️ ORM: Gorm
+
+### 💾 Database & Storage
+- 💾 SQL Database: PostgreSQL
+- 🔒 Authentication: Supabase Auth
+- 🌱 File Storage: Wasabi
+
+### ☁️ Infrastructure
+- 🚀 Backend Hosting: Fly.io
 - 📃 Frontend Hosting: Cloudflare Pages
-- 🎈 Backend Service: Fly.io
+- 🏷️ Domain Provider: Cloudflare Registrar
+- ☁️ CDN: Cloudflare CDN
+- 🌐 DNS: Cloudflare DNS
+
+### 📊 Monitoring & Analytics
 - 🐞 Error Monitoring: Sentry
 - 📶 Mobile Analytics: Mixpanel
-- 🔥 Web Analytics: Firebase
+- 🔥 Web Analytics: Firebase Analytics
+
+### 💬 Communication & Payments
 - 🔔 Push Notifications: Firebase Cloud Messaging
-- 🐈 Mobile Payment: RevenueCat
-- 🍋 Web Payment: Lemon Squeezy
-- 📧 Email: Amazon SES
+- 🐈 Mobile Payments: RevenueCat
+- 🍋 Web Payments: Lemon Squeezy
+- 📧 Email Service: Amazon SES
 
 <!--
 **arvicxyz/arvicxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
