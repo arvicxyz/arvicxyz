@@ -1,4 +1,6 @@
-The best tech stack for SaaS in 2025. Best for speed, affordability and scale.
+Hi I'm Amir. A decade old developer with 10+ years mobile dev and 5+ years full stack web dev experience.
+
+Here's the tech stack I usually use for my SaaS and other projects. It's best for DX, speed, price and scale.
 
 ### Mobile App
 - 📱 Framework: Flutter or Native
