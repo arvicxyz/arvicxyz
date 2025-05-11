@@ -51,9 +51,9 @@ Here's the current tech stack I usually use for my SaaS and other projects. It's
 - 🐈 Mobile Payments: RevenueCat
 - 🍋 Web Payments: Lemon Squeezy
 
-🧳 Other Experiences & Technologies Used
-Aside from this stack, I’ve worked with:
 
+### Other Experiences & Technologies Used
+Aside from this stack, I’ve worked with:
 - 🤖 Android (Kotlin & Java)
 - 🍎 iOS (Swift)
 - 🧩 MAUI / Xamarin (Cross-platform .NET mobile)
