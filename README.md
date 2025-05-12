@@ -51,7 +51,6 @@ Here's the current tech stack I usually use for my SaaS and other projects. It's
 - 🐈 Mobile Payments: RevenueCat
 - 🍋 Web Payments: Lemon Squeezy
 
-
 ### Other Experiences & Technologies Used
 Aside from this stack, I’ve worked with:
 - 🤖 Android (Kotlin & Java)
@@ -61,6 +60,7 @@ Aside from this stack, I’ve worked with:
 - ⚙️ Node.js + Express.js
 - 🍃 MongoDB
 - 🕹️ Unity3D & MonoGame (Game development)
+- Angular, Cordova, Ionic, MySQL, MSSQL, Azure, AWS, GCP
 <!--
 **arvicxyz/arvicxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
