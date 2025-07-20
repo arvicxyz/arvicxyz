@@ -9,8 +9,7 @@ Here's the current tech stack I usually use for my SaaS and other projects. It's
 - 🧰 Service Locator: GetIt
 - 💉 Dependency Injection: Injectable
 - 🔍 HTTP Networking: Dio
-- 🗃️ Local SQL DB: Drift
-- 📦 Local NoSQL DB: Hive
+- 🗃️ Local DB: Drift or Hive
 
 ### Web App & Website
 - 🖥️ Web App: Next.js
@@ -34,7 +33,7 @@ Here's the current tech stack I usually use for my SaaS and other projects. It's
 
 ### Infrastructure
 - 🎈 Backend Hosting: Fly.io
-- 📃 Frontend Hosting: Cloudflare Pages
+- 📃 Frontend Hosting: Cloudflare Pages or Vercel
 - 🏷️ Domain Provider: Cloudflare Registrar
 - 📛 DNS: Cloudflare DNS
 - ☁️ CDN: Cloudflare CDN
