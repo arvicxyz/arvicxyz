@@ -3,7 +3,7 @@ Hi I'm Amir. A decade old developer with 10+ years mobile dev and 5+ years full 
 Here's the current tech stack I usually use for my SaaS and other projects. It's best for DX, speed, price and scale.
 
 ### Mobile App
-- 📱 Framework: Flutter or Native
+- 📱 Framework: Flutter or native Android (Kotlin) and iOS (Swift)
 - 🧊 State Management: Bloc
 - 🧭 Router: GoRouter
 - 🧰 Service Locator: GetIt
@@ -52,8 +52,6 @@ Here's the current tech stack I usually use for my SaaS and other projects. It's
 
 ### Other Experiences & Technologies Used
 Aside from this stack, I’ve worked with:
-- 🤖 Android (Kotlin & Java)
-- 🍎 iOS (Swift)
 - 🧩 MAUI / Xamarin (Cross-platform .NET mobile)
 - 🌐 ASP .NET Core & C#
 - ⚙️ Node.js + Express.js
